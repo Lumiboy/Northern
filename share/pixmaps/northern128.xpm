@@ -1,5 +1,5 @@
 /* XPM */
-static char * bitcoin128_xpm[] = {
+static char * northern128_xpm[] = {
 "128 128 3656 2",
 "  	c None",
 ". 	c #FCFCFC",
